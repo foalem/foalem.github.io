@@ -50,7 +50,7 @@ I am also passionate about **soccer ⚽, taekwondo 🥋, and video games (PS5)**
 École Polytechnique de Montréal
 </div>
 <div style="text-align:right;">
-<i>Aug. 2021 – Present</i><br>
+<i>2026</i><br>
 Montréal, Canada
 </div>
 </div>
