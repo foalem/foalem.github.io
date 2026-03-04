@@ -1,13 +1,17 @@
 ---
-title: "Paper Title Number 4"
+title: "An Empirical Study on Logging Evolution on Stack Overflow: Trends, Topics, and Challenges"
 collection: publications
-category: conferences
-permalink: /publication/2024-02-17-paper-title-number-4
-excerpt: 'This paper is about fixing template issue #693.'
-date: 2024-02-17
-venue: 'GitHub Journal of Bugs'
-paperurl: 'https://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
+permalink: /publication/logging-evolution-stackoverflow
+date: 2024-11-04
+venue: "Under review at Empirical Software Engineering (EMSE)"
+authors: "**Patrick Loïc Foalem**, Foutse Khomh, Andre Nguimbous, Heng Li"
+paperurl: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5008961
+citation: "Foalem, P. L., Khomh, F., Nguimbous, A., Li, H. (2024). An Empirical Study on Logging Evolution on Stack Overflow: Trends, Topics, and Challenges."
+bibtex: |
+  @article{khomhempirical,
+    title={An Empirical Study on Logging Evolution on Stack Overflow: Trends, Topics, and Challenges},
+    author={Foalem, Patrick Loic and Khomh, Foutse and Nguimbous, Andre and Li, Heng},
+    journal={Under review at Empirical Software Engineering},
+    year={2024}
+  }
 ---
-
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
