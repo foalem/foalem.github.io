@@ -81,15 +81,16 @@ Bangangté, Cameroon
 
 ## Latest News
 
-<div style="max-height:200px; overflow-y:auto; border-left:3px solid #2c7be5; padding-left:15px;">
+<div style="max-height:220px; overflow-y:auto; border-left:3px solid #2c7be5; padding-left:15px;">
 
-**03 Mar 2025** – Our paper on *Logging Requirements for Continuous Auditing of Responsible ML Applications* has been accepted at **ICSE 2026**.
+<strong>03 Mar 2025</strong> – Our paper <i>Logging Requirements for Continuous Auditing of Responsible ML Applications</i> has been accepted as a <b>Journal-First paper at ICSE 2026</b> and will be presented at the conference in Brazil.<br><br>
 
-**10 Jan 2025** – I presented our work on **Logging Practices in Machine Learning Systems** at a research seminar.
+<strong>10 Jan 2025</strong> – I presented our work on <b>Logging Practices in Machine Learning Systems</b> at the <i>CREATE SE4AI Trainee Talks – Summer 2024 Edition</i>.  
+<a href="https://www.youtube.com/watch?v=HJJxl9_ZuFY&t=2754s" target="_blank">Watch the seminar</a>.<br><br>
 
-**15 Oct 2024** – Our paper *Studying Logging Practice in Machine Learning-based Applications* was published in **Information and Software Technology (IST)**.
+<strong>15 Oct 2024</strong> – Our paper <i>Studying Logging Practice in Machine Learning-based Applications</i> was published in <b>Information and Software Technology (IST)</b>.<br><br>
 
-**01 Sep 2024** – Started teaching **LOG3000 – Software Engineering Process** at Polytechnique Montréal.
+<strong>01 Sep 2024</strong> – Started teaching <b>LOG3000 – Software Engineering Process</b> at Polytechnique Montréal.
 
 </div>
 
@@ -97,6 +98,6 @@ Bangangté, Cameroon
 
 ## Contact
 
-📧 **Email:** [patrick-loic.foalem@polymtl.ca](mailto:patrick-loic.foalem@polymtl.ca)
+📧 **Email:** [patrick-loic.foalem[at]polymtl.ca](mailto:patrick-loic.foalem@polymtl.ca)
 
 📍 **Location:** Montréal, Canada

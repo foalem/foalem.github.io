@@ -1,7 +1,7 @@
 ---
 title: "LOG3000 – Software Engineering Process"
 collection: teaching
-type: "Undergraduate course"
+type: "Graduate course"
 permalink: /teaching/log3000-software-engineering-process
 venue: "Polytechnique Montréal, Department of Computer and Software Engineering."
 date: 2024-09-01

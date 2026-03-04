@@ -9,5 +9,4 @@ location: "Bangangté, Cameroon"
 ---
 
 Instructor for the **INF301 Computer Architecture** course.
-
 Topics include computer system design, instruction set architecture, cache organization, virtual memory, input/output interfaces, and multi-core processor systems.

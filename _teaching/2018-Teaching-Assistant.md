@@ -9,9 +9,7 @@ location: "Bangangté, Cameroon"
 ---
 
 **Teaching Assistant — 2018–2021**
-
 Courses assisted:
-
 - Introduction to Python Programming  
 - Introduction to Information and Communication Technology  
 - Introduction to SQL Databases  

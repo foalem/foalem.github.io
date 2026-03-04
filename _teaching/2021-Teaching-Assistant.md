@@ -9,7 +9,6 @@ location: "Montréal, Canada"
 ---
 
 Teaching assistant for several software engineering and computer science courses:
-
 - LOG1410 – Software Analysis and Design  
 - LOG2400 – Software Analysis and Design  
 - LOG3000 – Software Engineering Process  

@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-CA"
-site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
+site_theme               : "contrast" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
 title                    : "Patrick Foalem"
 title_separator          : "-"
 name                     : &name "Patrick Foalem"
@@ -23,7 +23,7 @@ repository               : "patrickfoalem/patrickfoalem.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   name             : "Patrick Foalem"
   pronouns         : # example: "she/her"  
   bio              : "PhD candidate in Software Engineering at Polytechnique Montréal working on responsible AI engineering and trustworthy machine learning systems."

@@ -9,5 +9,4 @@ location: "Bangangté, Cameroon"
 ---
 
 Instructor for the **INF424 Agile Methods** course.
-
 Topics include the Agile Manifesto, agile mindset, agile methodologies such as Scrum and XP, and comparisons between agile development and traditional software development processes.
