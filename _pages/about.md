@@ -87,7 +87,7 @@ Bangangté, Cameroon
 
 <strong>20 Dec 2025</strong> – Our paper <i>Logging Requirements for Continuous Auditing of Responsible ML Applications</i> has been accepted as a <b>Journal-First paper at ICSE 2026</b> and will be presented at the conference in Brazil.<br><br>
 
-<strong>01 Sep 2025</strong> – Started teaching <b>INF2610 – Operating System Kernel</b> at Polytechnique Montréal.
+<strong>01 Sep 2025</strong> – Started teaching <b>INF2610 – Operating System Kernel</b> at Polytechnique Montréal..<br><br>
 
 <strong>07 Mar 2025</strong> – Our paper <i>Logging Requirements for Continuous Auditing of Responsible ML Applications</i> has been accepted in <b>Empirical Software Engineering (EMSE)</b>.<br><br>
 
