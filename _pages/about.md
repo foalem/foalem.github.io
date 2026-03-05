@@ -28,7 +28,7 @@ I received both my **B.Sc. and M.Sc. in Software Engineering from Université de
 
 In addition to my academic work, I have industry experience as a **data scientist and software engineer**, working on cloud infrastructure, machine learning systems, and data analytics.
 
-My research has appeared in venues such as:
+My research has appeared in leading venues such as:
 
 - Empirical Software Engineering (EMSE)
 - Information and Software Technology (IST)
@@ -36,7 +36,7 @@ My research has appeared in venues such as:
 - International Conference on Software Engineering (ICSE)
 - International Conference on Software Analysis, Evolution and Reengineering (SANER)
 
-Outside research, I enjoy doing research late at night — partly because that’s when ideas come more easily, and partly because reviewers cannot send comments while I’m still writing.
+Outside research, **I enjoy doing research late at night — partly because that’s when ideas flow more freely, and reviewers cannot send comments while I am still writing.**
 
 I am also passionate about **soccer ⚽, taekwondo 🥋, and video games (PS5)**.
 
@@ -83,7 +83,13 @@ Bangangté, Cameroon
 
 <div style="max-height:220px; overflow-y:auto; border-left:3px solid #2c7be5; padding-left:15px;">
 
-<strong>03 Mar 2025</strong> – Our paper <i>Logging Requirements for Continuous Auditing of Responsible ML Applications</i> has been accepted as a <b>Journal-First paper at ICSE 2026</b> and will be presented at the conference in Brazil.<br><br>
+<strong>09 Jan 2026</strong> – Our paper <i>Empirical Characterization of Logging Smells in Machine Learning Code</i> has been accepted as a <b>Registered Report at SANER 2026</b> and will be presented at the conference in Cyprus.<br><br>
+
+<strong>20 Dec 2025</strong> – Our paper <i>Logging Requirements for Continuous Auditing of Responsible ML Applications</i> has been accepted as a <b>Journal-First paper at ICSE 2026</b> and will be presented at the conference in Brazil.<br><br>
+
+<strong>01 Sep 2025</strong> – Started teaching <b>INF2610 – Operating System Kernel</b> at Polytechnique Montréal.
+
+<strong>07 Mar 2025</strong> – Our paper <i>Logging Requirements for Continuous Auditing of Responsible ML Applications</i> has been accepted in <b>Empirical Software Engineering (EMSE)</b>.<br><br>
 
 <strong>10 Jan 2025</strong> – I presented our work on <b>Logging Practices in Machine Learning Systems</b> at the <i>CREATE SE4AI Trainee Talks – Summer 2024 Edition</i>.  
 <a href="https://www.youtube.com/watch?v=HJJxl9_ZuFY&t=2754s" target="_blank">Watch the seminar</a>.<br><br>
