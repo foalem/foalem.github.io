@@ -3,7 +3,7 @@ title: "Empirical Characterization of Logging Smells in Machine Learning Code"
 collection: publications
 permalink: /publication/logging-smell-emse
 date: 2026-03-26
-venue: "Empirical Software Engineering (EMSE Journal) - Under review (1st round)"
+venue: "Empirical Software Engineering (EMSE Journal) - Under review (3rd round)"
 authors: "**Patrick L. Foalem**, Leuson Da Silva, Foutse Khomh, Heng Li, Ettore Merlo"
 paperurl: "https://arxiv.org/abs/2603.23769"
 

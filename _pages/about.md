@@ -8,25 +8,27 @@ redirect_from:
   - /about.html
 ---
 
-I am a researcher in software engineering and artificial intelligence,
-currently completing my PhD in Software Engineering at Polytechnique Montréal
-under the supervision of Prof. [Foutse Khomh](https://www.khomh.net/).
+I am a researcher in software engineering and artificial intelligence. I hold a PhD in Software Engineering from Polytechnique Montréal, completed under the supervision of Prof. [Foutse Khomh](https://www.khomh.net/) and Prof. [Ettore Merlo](https://dblp.org/pid/47/4667.html) with mention of **excellence** and nominated for the **Best Thesis Award** at Polytechnique Montréal. I also received both my **B.Sc. and M.Sc. in Software Engineering from Université des Montagnes**, graduating **valedictorian** in both programs.
 
-My research focuses on the engineering of trustworthy and responsible AI
-systems, particularly improving transparency, auditability, and governance in
-machine learning–based applications through empirical software engineering
-methods.
+In addition to my academic work, I have industry experience as a **data scientist and software engineer**, working on cloud infrastructure, machine learning systems, and data analytics.
 
+I am the Founder and Principal Researcher of [GAMA Institute](https://gamainstitute.ca/), a research, training, and innovation institute dedicated to artificial intelligence and software engineering.
+
+Our vision is to identify, train, and empower the next generation of talented young researchers and practitioners. As artificial intelligence profoundly transforms software engineering, GAMA Institute helps them develop the knowledge and skills required to actively shape this evolution by designing, evaluating, securing, governing, and improving intelligent systems.
+
+To advance this vision, our training strategy primarily serves undergraduate students in Québec and graduate students in Francophone Africa. We help them develop research skills, engage with emerging scientific challenges, and prepare to contribute actively to the future of AI and software engineering.
+
+This vision is also reflected in our GAMA WeekPaper series, which presents influential and emerging research in French to make scientific knowledge more accessible and encourage more French-speaking students and professionals to engage in research. Each paper is independently selected according to its scientific contribution, educational value, and relevance to GAMA Institute’s research vision. The series does not promote the work of any particular researcher, laboratory, or institution; its purpose is to encourage learning, critical reflection, and the discovery of meaningful research directions.
+
+My goal is to contribute to the development of methods, tools, and practices for building more reliable, responsible, and sustainable software and artificial intelligence systems.
 My main research interests include:
 
 - Responsible AI Engineering
 - DevOps / MLOps / LLMOps
 - Machine Learning System Engineering
 - Mining Software Repositories
+- Software Observability and Logging
 
-I received both my **B.Sc. and M.Sc. in Software Engineering from Université des Montagnes**, graduating **valedictorian** in both programs.
-
-In addition to my academic work, I have industry experience as a **data scientist and software engineer**, working on cloud infrastructure, machine learning systems, and data analytics.
 
 My research has appeared in leading venues such as:
 
@@ -38,7 +40,7 @@ My research has appeared in leading venues such as:
 
 Outside research, **I enjoy doing research late at night — partly because that’s when ideas flow more freely, and reviewers cannot send comments while I am still writing.**
 
-I am also passionate about **soccer ⚽, taekwondo 🥋, and video games (PS5)**.
+I am also passionate about soccer ⚽, taekwondo 🥋 (green belt), and PlayStation gaming 🎮—especially FIFA, now EA Sports FC, where, modesty aside, I am pretty good! I have also been a proud [Paris Saint-Germain](https://www.psg.fr/en) supporter since 2010. And, of course, thank you, [Luis Enrique](https://en.wikipedia.org/wiki/Luis_Enrique), for giving us moments of glory that were well worth the wait! 🔴🔵
 
 ---
 
@@ -46,7 +48,7 @@ I am also passionate about **soccer ⚽, taekwondo 🥋, and video games (PS5)**
 
 <div style="display:flex; justify-content:space-between; margin-bottom:10px;">
 <div>
-<b>PhD in Software Engineering (expected soon)</b><br>
+<b>PhD in Software Engineering <span style="color:#e83e8c">(Mention of Excellence · Nominated for Best Thesis Award)</span></b><br>
 École Polytechnique de Montréal
 </div>
 <div style="text-align:right;">
@@ -82,6 +84,10 @@ Bangangté, Cameroon
 ## Latest News
 
 <div style="max-height:220px; overflow-y:auto; border-left:3px solid #2c7be5; padding-left:15px;">
+
+<strong>24 Sept 2026</strong> – Founded <b>GAMA Institute</b>, a research, training, and innovation institute dedicated to advancing artificial intelligence and software engineering while empowering the next generation of young and talented researchers. <a href="https://gamainstitute.ca/" target="_blank">Visit GAMA Institute</a>.<br><br>
+
+<strong>18 Sept 2026</strong> – I successfully defended my <b>PhD thesis in Software Engineering</b> at <b>Polytechnique Montréal</b>, receiving the <b>mention of excellence</b>. My thesis was also <b>nominated for Polytechnique Montréal's Best Thesis Award</b>.<br><br>
 
 <strong>16 Apr 2026</strong> – I presented our paper <i>Logging Requirements for Continuous Auditing of Responsible ML Applications</i> at the <b>International Conference on Software Engineering (ICSE 2026)</b>. <a href="/files/Logging-requirement-ml-icse2026.pdf" target="_blank">Slides</a> | <a href="https://youtu.be/oZag-YwHQ3s" target="_blank">Video</a>.<br><br>
 
