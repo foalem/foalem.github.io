@@ -48,7 +48,7 @@ I am also passionate about soccer ⚽, taekwondo 🥋 (green belt), and PlayStat
 
 <div style="display:flex; justify-content:space-between; margin-bottom:10px;">
 <div>
-<b>PhD in Software Engineering <span style="color:#e83e8c">(Mention of Excellence · Nominated for Best Thesis Award)</span></b><br>
+<b>PhD in Software Engineering <span style="color:#e83e8c">(Mention of Excellence · Nominated for The Best Thesis Award)</span></b><br>
 École Polytechnique de Montréal
 </div>
 <div style="text-align:right;">

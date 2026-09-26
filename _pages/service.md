@@ -13,4 +13,4 @@ author_profile: true
 
 
 ## Program Committees
-- Committee Member of ICPC, Research Track, 2027
+- Committee Member of ICPC Conference, Research Track, 2027
