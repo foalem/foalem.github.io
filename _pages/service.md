@@ -9,6 +9,7 @@ author_profile: true
 
 ### Journal Reviewer
 - Reviewer, *Empirical Software Engineering (EMSE), 2026*
+- Reviewer, *Automated Software Engineering (ASE), 2026*
 
 
 
