@@ -14,11 +14,17 @@ In addition to my academic work, I have industry experience as a **data scientis
 
 I am the Founder and Principal Researcher of [GAMA Institute](https://gamainstitute.ca/), a research, training, and innovation institute dedicated to artificial intelligence and software engineering.
 
-Our vision is to identify, train, and empower the next generation of talented young researchers and practitioners. As artificial intelligence profoundly transforms software engineering, GAMA Institute helps them develop the knowledge and skills required to actively shape this evolution by designing, evaluating, securing, governing, and improving intelligent systems.
+Our vision is to identify, train, and empower the next generation of talented researchers and practitioners. As artificial intelligence transforms software engineering, we help them develop the knowledge and skills needed to shape this evolution through the design, evaluation, security, governance, and improvement of intelligent systems.
 
-To advance this vision, our training strategy primarily serves undergraduate students in Québec and graduate students in Francophone Africa. We help them develop research skills, engage with emerging scientific challenges, and prepare to contribute actively to the future of AI and software engineering.
+Our training activities primarily support undergraduate students in Québec and graduate students in Francophone Africa. Through guided engagement with scientific literature, critical analysis, and research communication, we help them build research skills, explore emerging challenges, and take their first steps toward a research career.
 
-This vision is also reflected in our GAMA WeekPaper series, which presents influential and emerging research in French to make scientific knowledge more accessible and encourage more French-speaking students and professionals to engage in research. Each paper is independently selected according to its scientific contribution, educational value, and relevance to GAMA Institute’s research vision. The series does not promote the work of any particular researcher, laboratory, or institution; its purpose is to encourage learning, critical reflection, and the discovery of meaningful research directions.
+**GAMA Institute now welcomes contributions from undergraduate and graduate students, including doctoral students, and early-career researchers through two complementary formats: Research Summaries and GAMA WeekPaper.** Contributors can write an accessible summary of a scientific paper in English, or present a paper through GAMA WeekPaper, with French narration and English slides. Contributions must align with the institute’s research areas and undergo GAMA review before publication. Templates and guidelines are available to support contributors, including first-time presenters.
+
+These initiatives give aspiring researchers an opportunity to deepen their understanding of scientific work, develop their analytical and communication skills, and share their research interests with the wider community. Accepted contributions are published on GAMA Institute’s website and shared through its communication platforms, with clear attribution to contributors and the original research.
+
+GAMA WeekPaper also makes influential and emerging research accessible to French-speaking students and professionals, helping build a vibrant French-speaking research community. The series maintains editorial independence: its purpose is to encourage learning, critical reflection, and the discovery of meaningful research directions.
+
+**Interested in contributing?** Visit [GAMA Institute](https://gamainstitute.ca/) to explore our research areas, contribution guidelines, and submission opportunities.
 
 My goal is to contribute to the development of methods, tools, and practices for building more reliable, responsible, and sustainable software and artificial intelligence systems.
 My main research interests include:
