@@ -107,7 +107,7 @@ Bangangté, Cameroon
 
 <strong>07 Mar 2025</strong> – Our paper <i>Logging Requirements for Continuous Auditing of Responsible ML Applications</i> has been accepted in <b>Empirical Software Engineering (EMSE)</b>.<br><br>
 
-<strong>10 Jan 2025</strong> – I presented our work on <b>Logging Practices in Machine Learning Systems</b> at the <i>CREATE SE4AI Trainee Talks – Summer 2024 Edition</i>.  
+<strong>10 Jan 2025</strong> – I presented our work on <b>Logging Practices in Machine Learning Systems</b> at the <i>CREATE SE4AI Trainee Talks – Summer 2024 Edition</i>. <a href="/files/Studying-Logging-Practice-ML-based-Applications.pdf" target="_blank">Slides</a> | 
 <a href="https://www.youtube.com/watch?v=HJJxl9_ZuFY&t=2754s" target="_blank">Watch the seminar</a>.<br><br>
 
 <strong>15 Oct 2024</strong> – Our paper <i>Studying Logging Practice in Machine Learning-based Applications</i> was published in <b>Information and Software Technology (IST)</b>.<br><br>
