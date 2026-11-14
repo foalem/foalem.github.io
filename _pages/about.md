@@ -91,6 +91,8 @@ Bangangté, Cameroon
 
 <div style="max-height:220px; overflow-y:auto; border-left:3px solid #2c7be5; padding-left:15px;">
 
+<strong>ICPC 2027</strong> – I am serving on the Program Committee of the IEEE/ACM International Conference on Program Comprehension. <a href="https://conf.researchr.org/home/icpc-2027" target="_blank" rel="noopener noreferrer">Visit the conference website</a>.<br><br>
+
 <strong>24 Sept 2026</strong> – Founded <b>GAMA Institute</b>, a research, training, and innovation institute dedicated to advancing artificial intelligence and software engineering while empowering the next generation of young and talented researchers. <a href="https://gamainstitute.ca/" target="_blank">Visit GAMA Institute</a>.<br><br>
 
 <strong>18 Sept 2026</strong> – I successfully defended my <b>PhD thesis in Software Engineering</b> at <b>Polytechnique Montréal</b>, receiving the <b>mention of excellence</b>. My thesis was also <b>nominated for Polytechnique Montréal's Best Thesis Award</b>.<br><br>
